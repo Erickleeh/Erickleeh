@@ -1,5 +1,6 @@
-[![Artstation](https://i.gifer.com/81O8.gif)
+
 # _Erickleeh_ 
+[![nome](https://i.gifer.com/fyC3.gif)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-cerqueira-leite-0918931a)
