@@ -20,6 +20,8 @@
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickleeh&theme=blue-green&hide_title=true&hide=stars)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Erickleeh&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## Minhas Contribuiçoes
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Erickleeh&repo=dio-lab-open-source&theme=blue-green)](https://github.com/Erickleeh/dio-lab-open-source)
 
